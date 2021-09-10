@@ -1,0 +1,5 @@
+.classpath
+.project
+.settings/
+/target/
+twitter-to-kafka-service/src/main/resources/twitter4j.properties
