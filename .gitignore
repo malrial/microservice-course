@@ -1,5 +1,8 @@
 .classpath
 .project
 .settings/
-/target/
-twitter-to-kafka-service/src/main/resources/twitter4j.properties
+twitter-to-kafka-service/target/
+app-config-data/target/
+twitter4j.properties
+twitter-to-kafka-service/logs/twitter-to-kafka-service.log
+twitter-to-kafka-service/twitter-to-kafka-service/logs/twitter-to-kafka-service.log
